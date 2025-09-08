@@ -1,3 +1,1 @@
-# Python-R-Cheat-Sheet
-
-## Cheat Sheet
+## Cheat Sheet for quickly work
