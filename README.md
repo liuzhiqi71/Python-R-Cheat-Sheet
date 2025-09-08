@@ -1,1 +1,1 @@
-## Cheat Sheet for quickly work
+## Quick Reference Guide for Efficient Work
